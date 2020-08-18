@@ -1,0 +1,170 @@
+.col-custom {
+  flex: 0 0 auto;
+  width: 20%;
+}
+.first{
+	padding: 37px 0 90px;
+}
+
+/*.container{
+	margin: 60px 0 15px 0 !important;
+  }*/
+.image img{
+	height: auto;
+	width: 460px;
+	margin-left: 95px;
+}
+h1{
+	font-weight: bold !important;
+	padding: 0 0 15px;
+}
+
+.forbg{
+	    font-size: 15px !important;
+	    font-weight: 600 !important;
+	    text-transform: none !important;
+	    padding: 12px;
+}
+.eita-amar{
+	padding-top: 20px;
+}
+.risk{
+	margin-top: 20px;
+	/* padding-top: 2px; */
+}
+
+.silver-lining img {
+    height: auto;
+    width: 80px;
+    margin-right: 50px;
+}
+/*.logos{
+	height: auto;
+	width: 80px;
+	margin-right: 50px;
+}*/
+.errors{
+	margin-top: 130px;
+	margin-bottom: 150px;
+}
+.problem-desc{
+	padding-bottom: 45px;
+}
+.problem-desc p{
+	margin: 0 318px 0 320px;
+}
+.er-image img{
+	margin-left: 80px;
+}
+.er-desc h4{
+	margin: 0 90px 0.5rem 75px;
+}
+.er-desc h3{
+	margin: 0 90px 0.5rem 75px;
+}
+.er-desc p{
+	margin: 0 35px 0.5rem 75px;
+}
+.laptop{
+	margin-bottom: 90px;
+}
+.laptop p{
+	margin-left: 345px;
+	margin-right: 355px;
+	margin-bottom: 80px;
+}
+.right{
+	padding-bottom: 200px;
+}
+.specific h2{
+	padding: 0 85px 65px 85px;
+}
+.second{
+	padding: 55px 0 90px;
+    background: #227be5;
+    margin-bottom: 90px;
+}
+.video img{
+	margin-left: 85px;
+}
+.ben{
+	padding-bottom: 105px; 
+}
+.ben h2{
+	padding: 70px 220px;
+}
+.ben-image{
+
+}
+.ben-divider{
+	padding-bottom: 65px;
+}
+.ben-image img{
+	height: auto;
+    width: 70px;
+    padding-bottom: 15px;
+}
+.image-desc{
+
+}
+.ben-desc p{
+	font-weight: bold;
+}
+.user-image img{
+	margin-left: 10px;
+}
+.user-desc h4{
+	margin: 0 90px 0.5rem 62px;
+}
+.user-desc h3{
+	margin: 0 60px 0.5rem 75px;
+}
+.user-desc p{
+	margin: 0 35px 0.5rem 65px;
+}
+.percentile{
+	margin-top: 20px;
+}
+.nil-rong{
+	background: #87ceeb70;
+}
+.laal-rong{
+	background: #cd5c5c69;
+}
+.user-image{
+	padding: 30px 150px;
+	
+}
+.bord{
+	border-radius: 5px;
+}
+.pic-part img{
+	height: 80px;
+	margin-bottom: 20px;
+	padding-top: 0px;
+}
+.pic-part{
+	padding-top: 20px;
+}
+.image-desc h5{
+	line-height: 20px;
+	font-size: 15px;
+	font-weight: 700;
+}
+.image-desc p{
+	line-height: 20px;
+	font-size: 12px;
+}
+footer{
+	margin-top: 100px;
+	padding-top: 15px;
+	padding-bottom: 15px; 
+}
+footer img{
+	width: 20px;
+	margin: 0 15px;
+}
+/*
+Add a powerful, relevant testimonials from that Customer X here.
+It should focus on the results you product achieved for them and could answer a doubt that the user might have in the buying process.
+*/
